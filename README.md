@@ -1,9 +1,9 @@
-# Edwin's Blog - Blog Project | Laravel 9  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+# Manas's Blog - Blog Project  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 
 >This project was made with a deadline of two days. I used the already provided frontend template, where I added everything necessary to the database, created relations between the tables, and did the backend in Laravel 9. 
 This project also available a management system (CMS) for blog posts. More information is below...
 
-![schooldash-dahboard-page](https://i.postimg.cc/02qSGXJp/homepage.pnghttps://i.postimg.cc/02qSGXJp/homepage.png)
+<!--![schooldash-dahboard-page](https://i.postimg.cc/02qSGXJp/homepage.pnghttps://i.postimg.cc/02qSGXJp/homepage.png)-->
 ![schooldash-dahboard-page](https://i.postimg.cc/PJcwR1cf/screencapture-127-0-0-1-8000-register-2022-12-24-11-50-41.png)
 ![schooldash-dahboard-page](https://i.postimg.cc/ZYLbgwMP/login.png)
 
